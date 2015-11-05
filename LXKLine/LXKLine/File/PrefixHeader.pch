@@ -1,0 +1,32 @@
+//
+//  PrefixHeader.pch
+//  LXKLine
+//
+//  Created by apple on 15/10/27.
+//  Copyright © 2015年 LX. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "UIView+Extension.h"
+#import "UIColor+helper.h"
+#import "LXCommond.h"
+#import "LXSingleton.h"
+#import "AFNetworking.h"
+#import "NSString+URLEncoding.h"
+
+#define NZColor(r, g, b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1.0]
+
+// 屏幕宽与高
+#define kMainScreenWidth  ([UIScreen mainScreen].applicationFrame.size.width)
+#define kMainScreenHeight (([UIScreen mainScreen].applicationFrame.size.height)+20)
+
+#define kLinePad 0.5
+
+
+#endif /* PrefixHeader_pch */
+
+
