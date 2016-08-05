@@ -46,14 +46,13 @@
 <br>
 
 * 牛仔网App的效果如下<br>
-![image4](https://github.com/SoftProgramLX/LXKLine/blob/master/LXKLine/File/image1.png)<br>
+![image4](https://github.com/SoftProgramLX/LXKLine/blob/master/LXKLine/File/image1.png)<br><br>
 ---
 <br>
 ![image5](https://github.com/SoftProgramLX/LXKLine/blob/master/LXKLine/File/image2.png)<br><br>
 ---
 <br>
-![image6](https://github.com/SoftProgramLX/LXKLine/blob/master/LXKLine/File/image3.png)<br><br>
-
+![image6](https://github.com/SoftProgramLX/LXKLine/blob/master/LXKLine/File/image3.png)<br>
 
 <br>
 ###`QQ:2239344645`    [我的github](https://github.com/SoftProgramLX?tab=repositories)
