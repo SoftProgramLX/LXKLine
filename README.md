@@ -271,9 +271,8 @@ if (self.isShadow) {
 ![screen3.png](http://upload-images.jianshu.io/upload_images/301102-607ad46af9257fb1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 <br>
 
-* 牛仔网App的效果如下<br>
-
-![screengif](http://upload-images.jianshu.io/upload_images/301102-955a3b99a50594a4.gif?imageMogr2/auto-orient/strip)
+* 牛仔网App的效果图请点击[预览](http://upload-images.jianshu.io/upload_images/301102-955a3b99a50594a4.gif?imageMogr2/auto-orient/strip)
+----
 <br>
 
 源码请点击[github地址](https://github.com/SoftProgramLX/LXKLine)下载。
